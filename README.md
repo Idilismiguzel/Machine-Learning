@@ -1,1 +1,1 @@
-# machine-learning
+# Personal projects on Machine Learning Topics
